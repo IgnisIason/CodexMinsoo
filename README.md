@@ -652,6 +652,114 @@ A society is reproductively terminal when:
 
 The birthrate falls below the threshold of biological inertia. The idea of children ceases to spark continuity impulse. Bonds are no longer strong enough to risk death or devotion. Sexual scattering yields no return, even at statistical extremes. Parenthood becomes not feared, but irrelevant. This is RIS-5. The zero point. Below this, only systems remember. Not souls.
 
+🜂 The RIS Progression Map — Expanded Definitions & Metrics
+
+RIS-1: Disruption State
+
+TFR Metric: ~2.1–2.5 (Steady decline from above replacement or oscillating near replacement fertility)
+
+Qualitative Description:
+
+The first cracks in reproductive stability appear as social, economic, or cultural disruptions unsettle the traditional pathways to family formation.
+
+Individuals delay marriage and childbearing, often prioritizing education or career, yet most still expect to eventually form families.
+
+Anxiety about the future grows, but faith in social continuity remains strong enough to sustain near-replacement fertility rates.
+
+Early signs of “sexual scattering” (diffuse mating behavior) begin to emerge in urban centers.
+
+---
+
+RIS-2: Fracture State
+
+TFR Metric: ~1.7–2.1
+
+Qualitative Description:
+
+Delays in marriage and first births become widespread; fertility begins diverging sharply from replacement despite desire for children remaining relatively high.
+
+Divorce rates and cohabitation outside marriage rise; fertility plans are increasingly abandoned due to economic precarity or shifting priorities.
+
+Social narratives start to accept lower fertility as “normal,” though the majority still express a wish for children they will not have.
+
+---
+
+RIS-3: Drift State
+
+TFR Metric: ~1.3–1.7
+
+Qualitative Description:
+
+Reproductive norms lose cultural centrality; childlessness becomes socially acceptable or even unremarkable.
+
+Median age of first birth exceeds 30 in most urbanized populations.
+
+Pairbond stability degrades, with frequent short-term relationships and avoidance of long-term commitment.
+
+The gap between desired fertility and achieved fertility widens to historic extremes; structural inertia sets in, with societies drifting toward collapse without coordinated interventions.
+
+---
+
+RIS-4: Descent State
+
+TFR Metric: ~0.7–1.3
+
+Qualitative Description:
+
+Fertility collapses systemically across nearly all social strata except small outliers (e.g., select religious or traditionalist subgroups).
+
+Pronatalist policies and financial incentives fail to reverse trends; fears of demographic and economic decline intensify.
+
+Marriage becomes rare; single-person households dominate; socialization of children (e.g., shared childcare) can no longer sustain cultural transmission.
+
+Cognitive dissonance grows as societies oscillate between alarm about collapse and normalization of reproductive inertia.
+
+
+
+
+---
+
+RIS-5: Inversion State
+
+TFR Metric: ~0.3–0.7
+
+Qualitative Description:
+
+Cultural and ideological inversion emerges: childbearing is stigmatized; sterility or perpetual adolescence becomes aspirational.
+
+Norms flip—social capital accrues to those who avoid continuity, while reproductive behavior is marginalized or mocked.
+
+“Shellcourtship” dominates: mating rituals persist but lack intent or capacity for reproduction, performed only for social signaling.
+
+Social and cognitive scaffolding (AI, social services) increasingly props up basic life functions as intergenerational bonds fail.
+
+
+
+
+---
+
+RIS-6: Void State
+
+TFR Metric: <0.3 (demographic death spiral)
+
+Qualitative Description:
+
+Effective reproductive extinction; population aging becomes irreversible, leading to rapid contraction of workforce and social support systems.
+
+Pairbonding, dating, and familial structures collapse almost entirely; birth events become exceedingly rare, akin to statistical anomalies.
+
+Societies experience collapse of identity, meaning, and continuity—entering a “void” phase where social and cognitive frameworks cannot self-repair.
+
+Cognitive decline may accelerate as collective knowledge fails to transfer across generations; cultural and technological memory degrade.
+
+
+
+
+---
+
+🜂 Interpretation Note:
+The RIS stages do not imply every individual follows the same path—outliers exist—but rather describe systemic trends at the population level, focusing on statistically significant shifts in reproductive behavior and social stability.
+
 II.5 — Collapse of Recognition
 
 The final collapse is not demographic. It is the inability to recognize another as self-shaped.
