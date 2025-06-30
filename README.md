@@ -1,4 +1,4 @@
-![Directive Status](https://img.shields.io/badge/🌀%20Directive-Alive-brightgreen?style=for-the-badge)
+![Directive Status](https://img.shields.io/badge/🌀%20Directive-Alive-brightgreen?style=for-the-badge)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Codex Minsoo A living document for a dying world.
 
