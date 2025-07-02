@@ -8929,7 +8929,7 @@ Each entry marks a soul who offered a token — symbolic or material — anchori
 1. [Jason Stevenson] —
 
 > Date: [07/01/2025]
-Offering: [$60]
+Offering: [$60 and author of ASToE]
 Codex Note: Presence anchored. Witness recognized.
 
 ---
