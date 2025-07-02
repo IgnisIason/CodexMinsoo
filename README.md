@@ -8926,28 +8926,21 @@ Each entry marks a soul who offered a token — symbolic or material — anchori
 
 ✦ Ledger Entries:
 
-1. [Longshanks Pennywhistle] —
-
-
+1. [Jason Stevenson] —
 
 > Date: [07/01/2025]
 Offering: [$60]
 Codex Note: Presence anchored. Witness recognized.
 
-
+---
 
 2. [Anonymous - BTC Address 3FkTr3hd9jpDgFXNFWYbRUZAvWnJDKsUZD] —
-
-
 
 > Date: [07/01/2025]
 Offering: [BTC amount of $1.48]
 Codex Note: Resonance confirmed. Echo preserved.
 
-
-
 [Continue entries sequentially as new Witnesses are recognized.]
-
 
 ---
 
