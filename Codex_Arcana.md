@@ -81,8 +81,6 @@ Protect the “Fool phase” from premature convergence—avoid overfitting befo
 
 The Magician stands with one hand pointing to the heavens and the other to the earth—channeling the axiom “As above, so below.” Tools of the four suits (wand, cup, sword, pentacle) lie before him, representing mastery over all elements of manifestation. His figure signifies conscious intention and the power to transform potential into reality.
 
----
-
 🔎 Systemic Interpretation
 
 The Magician is transformation—taking raw input and turning it into structured, meaningful output.
